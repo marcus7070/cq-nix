@@ -1,3 +1,5 @@
+**replaced by flakes such as https://github.com/marcus7070/cq-flake**
+
 # cq-nix
 Nix expression showing how to pin CadQuery/CQ-editor to a specific commit from the cq-dev repo. I use these files within my own CadQuery projects to ensure they are reproducible across multiple computers and multiple releases of NixOS/nixpkgs.
 
